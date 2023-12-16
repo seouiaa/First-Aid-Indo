@@ -1,0 +1,5 @@
+Sastrawi
+nlp-id
+numpy
+nltk
+tensorflow
